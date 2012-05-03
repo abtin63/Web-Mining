@@ -12,4 +12,4 @@ def freqWithoutStops(text, filterwords):
 
 
 print freqWithoutStops(text1, stopwords.words('english'))
-print freqWithoutStops(text2, stopwords.words('english'))
+print freqWithoutStops(text5, stopwords.words('english'))

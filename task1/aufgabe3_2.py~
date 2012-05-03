@@ -28,4 +28,4 @@ def con(text, stopwords):
     return alfa
 
 con(text1, stopwords.words('english'))
-con(text2, stopwords.words('english'))
+con(text5, stopwords.words('english'))

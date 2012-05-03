@@ -18,4 +18,4 @@ def zipfPlot(text, stopwords):
     pylab.show()
 
 zipfPlot(text1, stopwords.words('english'))
-zipfPlot(text2, stopwords.words('english'))
+zipfPlot(text5, stopwords.words('english'))

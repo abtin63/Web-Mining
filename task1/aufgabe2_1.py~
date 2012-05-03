@@ -9,4 +9,4 @@ def frequ(text):
     return keys[:30]
 
 print frequ(text1)
-print frequ(text2)
+print frequ(text5)
